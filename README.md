@@ -6,6 +6,6 @@ It is a todo list where you can add your daily todo list or weekend or weekday t
 
 ![alt text](./todo1.png)
 
-![alt text](./todo2png)
+![alt text](./todo2.png)
 
 
